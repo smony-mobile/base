@@ -18,8 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Include packages
 
-  intl: ^0.17.0
-  adaptive_theme: ^2.2.0
+  `intl: ^0.17.0`
+  `adaptive_theme: ^2.2.0`
 
-  flutter_localizations:
-    sdk: flutter
+  ```flutter_localizations:
+    sdk: flutter```
