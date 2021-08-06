@@ -22,4 +22,4 @@ samples, guidance on mobile development, and a full API reference.
   `adaptive_theme: ^2.2.0`
 
   ```flutter_localizations:
-    sdk: flutter```
+    sdk: flutter
